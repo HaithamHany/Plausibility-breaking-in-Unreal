@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/TestingLevel.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/TestingLevel_BuiltData.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/Overlap_BP.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/Bin_BP.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/AntiGravityObject.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/Test01.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/Room1.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/Room2.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/Room3.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Levels/Room1_BuiltData.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/GrabbaleWithGravityOBJ.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/AntiGravity.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/AntiGravity.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Room3.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Room2.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Room1.umap",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/VRTemplate/VFX/NS_Pointer.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/DistancePointerComponent.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/CollisionDetection.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/NewActorComponent.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/CollisionDetector.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/Bin.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/Blueprints/Overlap_VP.uasset",
+				"D:/Projects/Plausibility-breaking-in-Unreal/Content/VRTemplate/Maps/VRTemplateMap_2.umap"
+			]
+		}
+	]
+}
